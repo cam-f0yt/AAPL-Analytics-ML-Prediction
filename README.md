@@ -216,6 +216,6 @@ pandas - Data manipulation and analysis
 
 
 # License
-MIT License - See LICENSE file for details
+MIT License 
 
 ⭐ Star this repo if you found it interesting!
